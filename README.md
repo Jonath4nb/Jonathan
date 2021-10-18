@@ -1,2 +1,2 @@
 # Jonathan
-Hi my name is Jonathan
+Hi, my name is Jonathan
